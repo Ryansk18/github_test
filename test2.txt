@@ -1,2 +1,6 @@
 This is the second text document.
+<<<<<<< HEAD
 This is an addition made in the test-feature branch.
+=======
+This is an addition made on the test-feature branch.
+>>>>>>> test-feature
